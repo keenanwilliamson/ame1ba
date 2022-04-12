@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ame1ba
-- 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ... JS,HTML5/CSS3
-- 💞️ I’m looking to collaborate on ... web creation
+- 👀 I’m interested in ... Swift IOS Game Development
+- 🌱 I’m currently learning ... swift
+- 💞️ I’m looking to collaborate on ... Swift IOS Game Development
 - 📫 How to reach me ... keenanwilliamson01@gmail.com
 
 <!---
